@@ -3,6 +3,7 @@
 !.python-version
 __pycache__/
 *.csv
+!lab_medallion/seeds/*.csv
 target/
 dbt_packages/
 logs/
